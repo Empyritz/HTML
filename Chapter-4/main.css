@@ -1,0 +1,35 @@
+
+html {
+    padding: 0;
+}
+
+body { 
+    color: white;
+    background-color: #333;
+}
+
+h1 {
+    text-align: center;
+}
+
+a {
+    text-decoration:none;
+    color: #07bfe4
+    ;
+}
+
+a:visited {
+    color: rgb(223, 118, 241);
+}
+
+a:hover, a:active {
+    color: #eee
+}
+
+
+.list ul {
+    display: flex;
+    margin: 0 20px;
+    justify-content: space-around;
+    list-style: none;
+}
