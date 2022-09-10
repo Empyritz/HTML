@@ -36,4 +36,6 @@ a:hover, a:active {
 
 .images {
     display: flex;
+    flex-flow: wrap;
+    justify-content: center;
 }
